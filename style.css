@@ -79,3 +79,4 @@ form .btn { margin-top: 1rem; width: 100%; }
   .site-footer { grid-template-columns: repeat(3, 1fr); align-items: start; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+/* mobile styles checked */
